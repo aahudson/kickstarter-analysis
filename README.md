@@ -10,7 +10,7 @@ In the Theater Outcomes by Launch Date I began by converting the current date fr
 Next I created a column for the year that the challenges were created using the formula =YEAR(R3846). 
 With that data complete a pivot table was created using Theater Outcomes by Launch Date. The parent category and years were used as filters. The count outcomes use the months and each following column looked at canceled, successes and failures. The pivot table was sorted to show the success first in descending order. 
 Lastly, a line chart was created showing the number of successful, failed, or canceled projects by month. 
-![Theater Outcomes va Launch](../../../../../../c:/Users/aahud/Dropbox%20(Personal)/Bootcamp/Crowfunding%20Analysis/resources/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes va Launch](https://github.com/aahudson/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 ### Analysis Outcomes Based on the Goals 
 Next a new sheet was created showing Outcomes Based on the Goals. 
 A chart was created with the following columns. 
