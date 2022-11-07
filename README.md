@@ -46,14 +46,19 @@ Outcomes_vs_Goals.png
 ### Challenges and Difficulties Encountered
 There were some challenges creating the IF formual and getting the logic just right to pull the correct data. Help was received from an additional collegaue. 
 ## Results
-https://github.com/aahudson/kickstarter-analysis/commit/ab836d0c706ba70054dc16e48bf85ade7b885daa 
+Review the orginial dataset by exploring the following Excel File ![Kicstrater Analysis](https://github.com/aahudson/kickstarter-analysis/commit/ab836d0c706ba70054dc16e48bf85ade7b885daa)
+
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Based on the Theater Outcomes by Lanch Date a May or June campaign  is likely to have the best success.
 However, keep in mind that May, July, and October had high failure rantes of 50 and above.  
 - What can you conclude about the Outcomes based on Goals?
+
 Based on the Outcomes Based on Goals data it appears the best campaign range is in the $1,000 - $4,999 range. 
 - What are some limitations of this dataset?
+
 Every dataset has it limits. We are limited to the extent that the data was entered correctly. Outliners of either high or low numbers can also scuew the results. To view the raw data please see the following Excel file:
 
 - What are some other possible tables and/or graphs that we could create?
+
 An additional table comparing the percentage of successful campaigns compared to failed campaigns may help the decision between which month to launch. 
