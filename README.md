@@ -14,27 +14,27 @@ Lastly, a line chart was created showing the number of successful, failed, or ca
 ### Analysis Outcomes Based on the Goals 
 Next a new sheet was created showing Outcomes Based on the Goals. 
 A chart was created with the following columns. 
--Goal
--Number Successful
--Number Failed
--Number Canceled
--Total Projects
--Percentage Successful
--Percentage Failed
--Percentage Canceled
--he rows were created based on dollar ranges. 
--Less Than 1000
--1000 to 4999
--5000 to 9999
--10000 to 14999
--15000 to 19999
--20000 to 24999
--25000 to 29000
--30000 to 34999
--35000 to 39999
--40000 to 44999
--45000 to 49999
--50000 or More
+- Goal
+- Number Successful
+- Number Failed
+- Number Canceled
+- Total Projects
+- Percentage Successful
+- Percentage Failed
+- Percentage Canceled
+The rows were created based on dollar ranges. 
+- Less Than 1000
+- 1000 to 4999
+- 5000 to 9999
+- 10000 to 14999
+- 15000 to 19999
+- 20000 to 24999
+- 25000 to 29000
+- 30000 to 34999
+- 35000 to 39999
+- 40000 to 44999
+- 45000 to 49999
+- 50000 or More
 To discover the counts of successful, failed and canceled campaigns in the dollar ranges the following formula was used =COUNTIFS(Kickstarter!$F:$F,"=successful",Kickstarter!$D:$D,"<=1000",Kickstarter!$P:$P,"plays") 
 Then to find the percentage the number of counts was divided by the total sum of each line. To find the sum of each line the SUM function was used. 
 Then results of this chart was used to create a second line chart. 
