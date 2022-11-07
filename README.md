@@ -38,8 +38,8 @@ Less Than 1000
 To discover the counts of successful, failed and canceled campaigns in the dollar ranges the following formula was used =COUNTIFS(Kickstarter!$F:$F,"=successful",Kickstarter!$D:$D,"<=1000",Kickstarter!$P:$P,"plays") 
 Then to find the percentage the number of counts was divided by the total sum of each line. To find the sum of each line the SUM function was used. 
 Then results of this chart was used to create a second line chart. 
-![Alt text](../../../../../../c:/Users/aahud/Dropbox%20(Personal)/Bootcamp/Crowfunding%20Analysis/Outcomes_Based_on_Goals.png)
 
+https://github.com/aahudson/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png
 ### Challenges and Difficulties Encountered
 There were some challenges creating the IF formual and getting the logic just right to pull the correct data. Help was received from an additional collegaue. 
 ## Results
